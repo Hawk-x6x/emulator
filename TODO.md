@@ -6,8 +6,8 @@ If you want to work on a specific feature just add your name next to that featur
 # TODO
 > 1. design the architecture
 > 2. build the emulator
->   I. emulator
->   II. graphics
+> I. emulator
+> II. graphics
 > 3. assembler to assemble binaries for the emulator
 > 4. design the circuit
 
